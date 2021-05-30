@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @Cold-Syntax
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Cold-Syntax/Cold-Syntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hello, I'm just another user behind a screen. I like to think I know enough, especially on the software side, but I'm just here to screw around.
 
 I guess I can give highlights of my computer science career
